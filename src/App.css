@@ -1,9 +1,24 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(./components/font/Rubik-Regular.ttf);
+}
+
+*{
+  font-family: myFirstFont;
+}
+
 html,body,#root{
   height: 100%;
 }
 .z-index-low{
-  z-index: 10px!important;
+  z-index: auto;
 }
 .z-index-high{
-  z-index: 20px!important;
+  z-index: 3;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
