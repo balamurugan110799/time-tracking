@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/balamurugan110799/time-tracking/static/css/main.6759d1d7.css",
-    "main.js": "/balamurugan110799/time-tracking/static/js/main.a3ae483c.js",
-    "static/js/787.7efd31bd.chunk.js": "/balamurugan110799/time-tracking/static/js/787.7efd31bd.chunk.js",
-    "static/media/Rubik-Regular.ttf": "/balamurugan110799/time-tracking/static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
-    "static/media/image-jeremy.png": "/balamurugan110799/time-tracking/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
-    "static/media/icon-exercise.svg": "/balamurugan110799/time-tracking/static/media/icon-exercise.3e7b028289414a13231843557ae074f7.svg",
-    "static/media/icon-social.svg": "/balamurugan110799/time-tracking/static/media/icon-social.64be0c18d185740e487b8efaebb31183.svg",
-    "static/media/icon-study.svg": "/balamurugan110799/time-tracking/static/media/icon-study.1f0a65e457bfa63988275be35e86407e.svg",
-    "static/media/icon-play.svg": "/balamurugan110799/time-tracking/static/media/icon-play.e8d4e5699b0e441f8baf9e7692e15167.svg",
-    "index.html": "/balamurugan110799/time-tracking/index.html",
-    "static/media/icon-work.svg": "/balamurugan110799/time-tracking/static/media/icon-work.a3f124e593ab45ba795f6a068fe710ce.svg",
-    "static/media/icon-self-care.svg": "/balamurugan110799/time-tracking/static/media/icon-self-care.a161aff589038fc7ce09296497d4cd62.svg",
-    "main.6759d1d7.css.map": "/balamurugan110799/time-tracking/static/css/main.6759d1d7.css.map",
-    "main.a3ae483c.js.map": "/balamurugan110799/time-tracking/static/js/main.a3ae483c.js.map",
-    "787.7efd31bd.chunk.js.map": "/balamurugan110799/time-tracking/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/balamurugan110799/time-tracking-react-app/static/css/main.e56b45e7.css",
+    "main.js": "/balamurugan110799/time-tracking-react-app/static/js/main.da261c9e.js",
+    "static/js/787.7efd31bd.chunk.js": "/balamurugan110799/time-tracking-react-app/static/js/787.7efd31bd.chunk.js",
+    "static/media/Rubik-Regular.ttf": "/balamurugan110799/time-tracking-react-app/static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/image-jeremy.png": "/balamurugan110799/time-tracking-react-app/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
+    "static/media/icon-exercise.svg": "/balamurugan110799/time-tracking-react-app/static/media/icon-exercise.3e7b028289414a13231843557ae074f7.svg",
+    "static/media/icon-social.svg": "/balamurugan110799/time-tracking-react-app/static/media/icon-social.64be0c18d185740e487b8efaebb31183.svg",
+    "static/media/icon-study.svg": "/balamurugan110799/time-tracking-react-app/static/media/icon-study.1f0a65e457bfa63988275be35e86407e.svg",
+    "static/media/icon-play.svg": "/balamurugan110799/time-tracking-react-app/static/media/icon-play.e8d4e5699b0e441f8baf9e7692e15167.svg",
+    "index.html": "/balamurugan110799/time-tracking-react-app/index.html",
+    "static/media/icon-work.svg": "/balamurugan110799/time-tracking-react-app/static/media/icon-work.a3f124e593ab45ba795f6a068fe710ce.svg",
+    "static/media/icon-self-care.svg": "/balamurugan110799/time-tracking-react-app/static/media/icon-self-care.a161aff589038fc7ce09296497d4cd62.svg",
+    "main.e56b45e7.css.map": "/balamurugan110799/time-tracking-react-app/static/css/main.e56b45e7.css.map",
+    "main.da261c9e.js.map": "/balamurugan110799/time-tracking-react-app/static/js/main.da261c9e.js.map",
+    "787.7efd31bd.chunk.js.map": "/balamurugan110799/time-tracking-react-app/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6759d1d7.css",
-    "static/js/main.a3ae483c.js"
+    "static/css/main.e56b45e7.css",
+    "static/js/main.da261c9e.js"
   ]
 }
